@@ -1,0 +1,33 @@
+digraph      asdwqe     { 
+ a -> b ;
+asd  ->  ewr   ;
+r->ewr;
+e->h;
+p->c  ;
+   l->p;
+1->r;
+m->e;
+g->m;
+b->g;
+da->as;
+as->rt;
+rt->ty;
+ty->da;
+r->x;
+asd->x;
+asd->y;
+c->b;
+b->a;
+q->w;
+w->e;
+e->r;
+r->t;
+t->b;
+1->2;
+2->3;
+3->1;
+g->h;
+h->j;
+j->a;
+c->p;
+}
